@@ -1,0 +1,17 @@
+{
+    "name": "gao/n",
+    "description": "dd",
+    "authors": [
+        {
+            "name": "gao",
+            "email": "865636886@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Gao\\Qingyuan\\":"src/"
+        }
+    }
+}
